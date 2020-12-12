@@ -10,7 +10,7 @@ import java.util.Scanner;
 /**
  * We ask user for a series of data per screen and finaly we show them
  *
- * @author David Aparicio Sir
+ * @author David Aparicio Sir (clonado por Diego Castaño)
  * @version 1.0
  */
 public class EjercicioEDD2 {
